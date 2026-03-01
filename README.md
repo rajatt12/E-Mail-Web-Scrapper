@@ -35,7 +35,7 @@ E-Mail-Web-Scraper/
 │
 ├── companies.csv # Input file containing company names & websites
 
-├── script.py # Main Python script for scraping emails
+├── script.ipynb # Main Python script for scraping emails
 
 ├── companies_with_emails.csv # Generated output file with extracted emails
 
@@ -70,7 +70,7 @@ pip install requests beautifulsoup4 pandas
 
 Run the script from the project directory:
 
-python scraper.py
+python script.ipynb
 
 After execution, a new file will be generated:
 
