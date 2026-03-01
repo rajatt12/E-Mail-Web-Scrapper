@@ -35,7 +35,7 @@ E-Mail-Web-Scraper/
 │
 ├── companies.csv # Input file containing company names & websites
 
-├── scraper.py # Main Python script for scraping emails
+├── script.py # Main Python script for scraping emails
 
 ├── companies_with_emails.csv # Generated output file with extracted emails
 
